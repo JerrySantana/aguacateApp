@@ -38,4 +38,4 @@ This application was developed as the final project for the **Object-Oriented Pr
 It demonstrates proficiency in **iOS native development, Object-Oriented Programming paradigms, and mobile UI/UX design** within the Apple ecosystem. This project highlights my capability to apply technical software engineering skills toward meaningful, community-impact initiatives.
 
 ---
-*Developed by Gerardo Gabriel Santana Amezcua.*
+*Developed by Gerardo Santana.*
