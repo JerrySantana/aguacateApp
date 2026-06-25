@@ -1,20 +1,41 @@
-# <em> Agua~cate App </em>
+# Agua~cate App: Water Conservation & Awareness
 
-**Agua~cate App fue un proyecto realizado en Swift para la materia de Programación Orientada a Objetos impartida en la Facultad de Ingeniería de la UNAM.**
+> **Swift-based mobile application focused on sustainable development and environmental education.**
 
-<img src="Recursos/Inicio.jpg" width="200"> <img src="Recursos/home.png" width="275">
+---
 
-**Contenido**
+## 🖥️ Tech Stack
+- **Language:** Swift
+- **Framework:** SwiftUI
+- **IDE:** Xcode / Swift Playgrounds
+
 ---
-### 1. Descripción.
-### 2. Tecnologías utilizadas.
-***
-**1. Descripción.**
+
+## 🗒️ Description
+
+**Agua~cate App** is a mobile application developed to raise awareness about water conservation and sanitation in Mexico. This project aligns with the **United Nations Sustainable Development Goal #6 (Clean Water and Sanitation)**, aiming to educate users on responsible water consumption and the importance of sustainable resource management.
+
+The application leverages native iOS design principles to deliver an intuitive and educational user experience, translating complex environmental challenges into accessible, community-focused information.
+
 ---
-### Este proyecto es el resultado del aprendizaje obtenido a lo largo de mi sexto semestre en la materia Programación Orientada a Objetos impartida por la Ingeniera Guadalupe Lizeth Parrales Romay.
-### El propósito de la aplicación es concientizar y educar acerca del cuidado del agua y su saneamiento en México. Esto para ayudar a resolver el punto número seis de las metas de Desarrollo Sustentable propuestas por la OMS.
-***
-**2. Tecnologías utilizadas.**
+
+## 💡 Core Functionalities
+- **Educational Modules:** Informative content regarding water footprint and conservation techniques.
+- **Sustainable Goal Tracking:** Educational awareness aligned with WHO and UN sustainability metrics.
+- **Intuitive UI/UX:** Built using SwiftUI to provide a responsive and clean interface, ensuring high accessibility for users of all ages.
+
+<p align="center">
+  <img src="Recursos/Inicio.jpg" width="200"> 
+  <img src="Recursos/home.png" width="275">
+</p>
+
 ---
-### Todo el proyecto se realizó utilizando el lenguaje de programación Swift y el entorno de desarrollo de SwiftUI, utilizando el IDE Xcode y Swift Playgrounds.
-***
+
+## 🪪 About the Project
+
+This application was developed as the final project for the **Object-Oriented Programming (POO)** course at the **Faculty of Engineering, UNAM**, under the supervision of Professor Guadalupe Lizeth Parrales Romay.
+
+It demonstrates proficiency in **iOS native development, Object-Oriented Programming paradigms, and mobile UI/UX design** within the Apple ecosystem. This project highlights my capability to apply technical software engineering skills toward meaningful, community-impact initiatives.
+
+---
+*Developed by Gerardo Gabriel Santana Amezcua.*
